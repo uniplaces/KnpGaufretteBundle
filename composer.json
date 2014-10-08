@@ -24,9 +24,9 @@
         "symfony/console": "2.*",
         "phpunit/phpunit": "3.7.*"
     },
-    "autoload":     {
-        "psr-0": {
-            "Knp\\Bundle\\GaufretteBundle": ""
+    "autoload": {
+        "psr-4": {
+            "Knp\\Bundle\\GaufretteBundle\\": ""
         }
     },
     "extra": {
