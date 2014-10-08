@@ -25,11 +25,10 @@
         "phpunit/phpunit": "3.7.*"
     },
     "autoload": {
-        "psr-0": {
+        "psr-4": {
             "Knp\\Bundle\\GaufretteBundle\\": ""
         }
     },
-    "target-dir": "Knp/Bundle/GaufretteBundle",
     "extra": {
         "branch-alias": {
             "dev-master": "0.2.x-dev"
