@@ -36,6 +36,5 @@
     },
     "config": {
         "bin-dir": "bin"
-    },
-    "target-dir":   "Knp/Bundle/GaufretteBundle"
+    }
 }
